@@ -17,13 +17,13 @@
 ## SWOT 
 
 * Strenght :
-      *   It is user friendy that can  be use to maintain the hospital data.
+     It is user friendy that can  be use to maintain the hospital data.
 * Weakness :
-      *   There is no efficient algorith to perform code.
+     There is no efficient algorith to perform code.
 * Opportunity :
-      *   For hospitals, it is a very good application and it saves a lot of time and money
+      For hospitals, it is a very good application and it saves a lot of time and money
 * Threats :
-      *   This application is vulnerable to virus threats
+     This application is vulnerable to virus threats
 
 ## 4W's & 1H
 
