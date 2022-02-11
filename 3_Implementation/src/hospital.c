@@ -1,7 +1,4 @@
-#include<stdio.h>
-#include<string.h>
-#include<conio.h>
-#include<stdlib.h>
+#include<>
 struct ad
 {
     char name[30];
