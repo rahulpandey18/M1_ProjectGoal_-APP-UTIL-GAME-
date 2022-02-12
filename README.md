@@ -2,12 +2,11 @@
 Reprository to Learn the C Programming Language as per Industry Standard
 
 ## Milestone-1
-
-* Folder Structures
+* Folder_Structures
 * Idea
 * Requirements
 * Design
-* Test Plan
+* Test_Plan
 
 | Codacy|
 |:-----:|
