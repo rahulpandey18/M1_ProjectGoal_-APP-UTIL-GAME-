@@ -35,19 +35,19 @@ int main()
         printf("\n\n\t\t\t\t\t\t Enter Choice=\n");
         
         
-        scanf("%d",&c);//choice for option
+        scanf("%d",&c);// here choice for option
         fflush(stdin);//making it clear
-        if(c==1)//add
+        if(c==1)//add the patient details
         {
             system("cls");
             add();
         }
-        else if(c==2)//view
+        else if(c==2)//view the patient details
         {
             system("cls");
             view();
         }
-        else if(c==3)//delete
+        else if(c==3)//delete the patient details
         {
             system("cls");
             del();
@@ -77,17 +77,17 @@ void add()
     {
         printf("\n");
         fflush(stdin);
-        printf("\n\t\t\t\t\t\tEnter patient's Name = ");
+        printf("\n\t\t\t\t\t\tEnter Patient's Name = ");
         gets(x[i].name);
         fflush(stdin);
-        printf("\n\t\t\t\t\t\tEnter disease = ");
+        printf("\n\t\t\t\t\t\tEnter Disease = ");
         gets(x[i].disease);
         fflush(stdin);
-        printf("\n\t\t\t\t\t\tEnter the age = ");
+        printf("\n\t\t\t\t\t\tEnter Age = ");
         scanf("%d",&x[i].age);
         fflush(stdin);
         fflush(stdin);
-        printf("\n\t\t\t\t\t\tEnter phone number = ");
+        printf("\n\t\t\t\t\t\tEnter Phone Number = ");
         scanf("%d",&x[i].phone);
         fflush(stdin);
         printf("\n");
@@ -162,7 +162,7 @@ void del()
 
     }
     else
-        printf("\n\nInvalid Serial number\n");
+        printf("\n\nNot Valid Serial Number\n");
 
 }
 void read()
@@ -170,11 +170,11 @@ void read()
     FILE *fp = fopen("patient.txt","r");
     if(fp == NULL)
     {
-        //create empty file, so that we can open it
+        //create new file,that will be empty so that we can open it
         //in the next execution of this program
         fp = fopen("patient.txt","w");
         fclose(fp);
-        printf("File does not exist, I JUST CREATED IT, exiting...\n\n\n");
+        printf("File not found, Created New\n\n\n");
         return 0;
     }
 
