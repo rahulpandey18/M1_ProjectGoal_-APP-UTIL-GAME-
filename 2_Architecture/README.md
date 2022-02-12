@@ -1,5 +1,3 @@
-## Architecture
-
 ## Design
 * Structural 
 * Behavioural 
