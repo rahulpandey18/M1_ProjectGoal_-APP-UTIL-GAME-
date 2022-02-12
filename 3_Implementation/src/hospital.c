@@ -60,7 +60,7 @@ int main()
         else
         {
             system("cls");
-            printf("\n\nInvalid input , try again by using valid inputs");
+            printf("\n\n Wrong input , try with new right inputs");
         }
         printf("\n\n");
     }
