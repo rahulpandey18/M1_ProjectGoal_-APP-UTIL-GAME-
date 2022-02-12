@@ -1,6 +1,5 @@
 
-## Test Case 
-
+## Test_Case 
 |ID|Test Name|Input|Expected Output|Actual Output|Remarks|
 |:-:|:------:|:---:|:-------------:|:-----------:|:-----:|
 |1|Add Patient Data|Name & Details|Details|Details|Pass|
