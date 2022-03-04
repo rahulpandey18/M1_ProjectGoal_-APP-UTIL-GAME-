@@ -14,10 +14,10 @@ Reprository to Learn the C Programming Language as per Industry Standard
 
 | Codiga|
 |:-----:|
-|([https://api.codiga.io/project/31584/score/svg)|
+|(https://api.codiga.io/project/31584/score/svg)|
 
 | Codiga|
 |:-----:|
-|([https://api.codiga.io/project/31584/status/svg)|
+|(https://api.codiga.io/project/31584/status/svg)|
 
 
