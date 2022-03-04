@@ -14,9 +14,10 @@ Reprository to Learn the C Programming Language as per Industry Standard
 
 | Codiga|
 |:-----:|
-[Code Quality Score](https://api.codiga.io/project/31584/score/svg)
+![Code Grade](https://api.codiga.io/project/31584/score/svg)|
+
 
 | Codiga|
 |:-----:|
-|[![Code Grade](https://api.codiga.io/project/31584/status/svg)]|
+|![Code Grade](https://api.codiga.io/project/31584/status/svg)|
 
