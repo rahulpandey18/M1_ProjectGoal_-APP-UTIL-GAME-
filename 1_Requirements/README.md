@@ -6,12 +6,22 @@
  2. Visual Code Studio
 
 ## High Level Requirements
-1. Add_Patient_Details 
-2. View_Patient_Details
-3. Delete Patient Details
+
+|SR|Implementation| Implementation Status|
+|:-:|:------:|:------:|
+|1| C language| Done|
+|2| Run on windows/Linux|Done|
+|3| User friendly|Done|
+
 
 ## Low Level Requirements
-1. Linkage High level to low level
+
+|SR|Implementation| Implementation Status|
+|:-:|:------:|:------:|
+|1| Add Patients|Done|
+|2| View Patients|Done|
+|3| Delete Patients|Done|
+|4| Exit |Done|
 
 ## SWOT 
 
